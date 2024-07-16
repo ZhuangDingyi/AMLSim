@@ -1,3 +1,6 @@
+# Ignore .git directory
+.git/
+
 # Log file
 logs/
 *.log
